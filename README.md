@@ -4,6 +4,7 @@
 
 Discovering the programming world!
 At this moment surfing through the **Front end** and **Data Analytics** topics!
+Here you will find my drafts and projects developed during my journey as an enthusiastic!
 
 ##
 
@@ -15,5 +16,3 @@ At this moment surfing through the **Front end** and **Data Analytics** topics!
 💬 Portuguese / English / French speaking<br />
 
 ##
-
-## Here you will find my drafts and projects developed during the journey of an enthusiastic! ##
