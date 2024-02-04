@@ -1,10 +1,10 @@
-***GUSTAVO PEREIRA TRAMONTIN***
+***Hello, my name is Gustavo Tramontin!***
 
 ##
 
-Discovering the programming world!
-At this moment surfing through the **Front end** and **Data Analytics** topics!
-Here you will find my drafts and projects developed during my journey as an enthusiastic!
+- Discovering the programming world!<br />
+- At this moment surfing through the **Front end** and **Data Analytics** topics!<br />
+- Here you will find my drafts and projects developed during my journey as an enthusiastic!<br />
 
 ##
 
