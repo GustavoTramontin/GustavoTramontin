@@ -8,7 +8,7 @@
 
 ##
 
-💻 Systems Analysis & Development - 2/5<br />
+💻 Systems Analysis & Development - 5/5<br />
 📊 Studying Python | Power BI | Data Analyst | JS | HTML 5 | CSS <br />
 🏭 Working as Technical Sales in the Industrial Sector<br />
 🏡 From Brazil - SC<br />
